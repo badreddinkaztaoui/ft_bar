@@ -4,7 +4,7 @@
 
 **Installation:**
 ```bash
-  git clone https://github.com/badreddinkaztaoui/fq_bar
+  git clone https://github.com/itscoda/fq_bar
   cd fq_bar
   cc -Wall -Wextra -Werror -o fq_bar fq_bar.c -lX11 -lXrandr
   mv fq_bar /usr/local/bin/
